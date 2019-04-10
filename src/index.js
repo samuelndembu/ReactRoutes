@@ -7,7 +7,7 @@ import { BrowserRouter, Route } from 'react-router-dom'
 import Home from './components/home';
 import Posts from './components/posts';
 import Profile from './components/profiles'
-
+ //create app component
 const App = () => {
     return (
         <BrowserRouter>
